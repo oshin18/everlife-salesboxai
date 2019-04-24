@@ -1,0 +1,12 @@
+{
+  "name": "eskill-stellar-transfer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Oshin",
+  "license": "MIT",
+  "dependencies": {
+    "cote": "^0.20.0",
+    "stellar-base": "^0.13.1",
+    "stellar-sdk": "^0.15.3"
+  }
+}
